@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Caprasimo&family=Montserrat:wght@100;400;600&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/list.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body {
+	font-family:'Montserrat', sans-serif;
+	font-size: 18px;
+	font-weight: light;
+	color:#3F2305;
+	background-color:#F5EFE7;
+	margin: 0;
+}
+
+
+h1, h2 {
+	font-family: 'caprasimo';
+	font-weight: bold;
+	color: #884A39;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+h3 {
+	font-family: 'montserrat', sans sans-serif;
+	font-size:16px;
+	color:#C38154;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+
+

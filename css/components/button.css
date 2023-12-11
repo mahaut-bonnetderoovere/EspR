@@ -1,0 +1,18 @@
+.btn-green {
+	background-color:#606C5D;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #F5EFE7;
+	font-weight: bold;
+	font-family: 'caprisimo';
+	margin-top: 40px;
+	transition: color 0.3s ease;
+
+}
+
+
+.btn-green:hover {
+	color:#D8C4B6;
+	background-color:#482121;
+	text-decoration: none;
+}
